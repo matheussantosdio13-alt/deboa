@@ -98,7 +98,7 @@ export default function Home() {
                     <img 
                       src="/hero.png" 
                       alt="Ilustração de Marketing Digital" 
-                      className="object-cover w-full h-full rounded-xl drop-shadow-[0_20px_20px_rgba(0,0,0,0.8)]"
+                      className="object-contain w-full h-full rounded-xl drop-shadow-[0_20px_20px_rgba(0,0,0,0.8)]"
                     />
                 </div>
               </div>
